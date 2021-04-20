@@ -55,7 +55,7 @@ header {
 }
 .todolist {
     width: 80%;
-    height: 750px;
+    height: 650px;
     background: white;
     margin:auto ;
     margin-bottom: 20px;
@@ -127,5 +127,12 @@ ul {list-style: none;
     padding: 5px;
 }
 
+.sales {
+    background: rgb(65, 129, 65);
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
 }
+
 
