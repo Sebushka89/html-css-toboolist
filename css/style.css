@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: 'Orelega One', cursive;
+}
+
+body {
+    background: lightgrey;
+}
+header {
+    background: white;
+    width: 100%;
+}
+
+.logo-img {
+   width: 75px;
+   vertical-align: middle;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+}
+
+.text {
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+.add {
+    width: 80%;
+    background: white;
+    margin:0 auto ;
+    margin-bottom: 2px;
+} 
+
+.first-button {
+    margin-left: 5%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background: cornflowerblue;
+    color: white;
+    padding: 1%;
+    border-radius: 15%;
+}
+
+.second-button {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background: white;
+    color: lightgrey;
+    padding: 1%;
+    border-radius: 15%;
+}
