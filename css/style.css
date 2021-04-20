@@ -53,3 +53,79 @@ header {
     padding: 1%;
     border-radius: 15%;
 }
+.todolist {
+    width: 80%;
+    height: 750px;
+    background: white;
+    margin:auto ;
+    margin-bottom: 20px;
+    padding-left: 70px;
+}
+ 
+.item{
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+ul {list-style: none;
+}
+
+.checkbox {
+    background: white;
+    color: green;
+    border-radius: 100%;
+    border: green solid 1px;
+}
+.crossbox {
+    background: white;
+    color: red;
+    border-radius: 100%;
+    border: red solid 1px;
+}
+
+.oggettolista {
+    font-size: 30px;
+}
+
+.tagblu {
+    background: cornflowerblue;
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.tagviola {
+    background: rgb(167, 83, 167);
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.recruiting{
+    background:green;
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.mobile {
+    background:orange;
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.website {
+    background:purple;
+    color: white;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+}
+
